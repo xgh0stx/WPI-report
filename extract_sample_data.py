@@ -1,3 +1,12 @@
+"""
+filename: extract_sample_data.py
+description: a script to extract sample data from mysql db
+version: 1.0
+dependencies: python-mysql.connector 
+
+"""
+
+
 import mysql.connector
 import csv
 
